@@ -1,4 +1,4 @@
-# data-structures
+# data-structures and algorithms
 Examples of some of the basic data structures and its use in some problem solving and algorithm.
 
 
