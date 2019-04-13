@@ -4,4 +4,4 @@ Examples of some of the basic data structures and its use in some problem solvin
 
 **Array**
 
-1. Array rotation using Juggling algortihm
+1. [Array rotation using Juggling algortihm](https://github.com/kariyenas/data-structures/blob/master/array/array_rotation/juggling_algorithm.cpp)
