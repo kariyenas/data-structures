@@ -5,7 +5,6 @@ void swap(int arr[], int fi, int si, int shift){
   int temp,i;
   for(i=0; i < shift; i++)
     {
-      cout << "Swapping " << arr[fi + i] << " with " << arr[si + i] << endl;
       temp = arr[fi + i];
       arr[fi + i] = arr[si + i];
       arr[si + i] = temp;
