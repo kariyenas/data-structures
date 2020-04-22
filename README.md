@@ -4,9 +4,9 @@ Examples of some of the basic data structures and its use in some problem solvin
 
 **Array Rotation**
 
-1. [Juggling algortihm](https://github.com/kariyenas/data-structures/blob/master/array/array_rotation/juggling_algorithm.cpp)
-
+1. [Juggling algortihm](https://github.com/kariyenas/data-structures/tree/master/array/array_rotation/juggling)
 2. [Reversal algorithm](https://github.com/kariyenas/data-structures/blob/master/array/array_rotation/reversal_algorithm.cpp)
+3. [Block Swap algorithm](https://github.com/kariyenas/data-structures/tree/master/array/array_rotation/block_swap)
 
 **Array Sorting**
 1. [Bubble Sort](https://github.com/apurvamayank/data-structures/blob/master/array/sorting/bubble_sort/bubble_sort.js)

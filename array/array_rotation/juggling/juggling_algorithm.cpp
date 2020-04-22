@@ -1,5 +1,4 @@
 #include <iostream>
-
 using namespace std;
 
 int gcd(int a, int b){
@@ -9,7 +8,6 @@ int gcd(int a, int b){
   return gcd(b, a % b);
 }
 
-// [1,2,3,4,5,6]
 void rotateLeft(int array[], int d, int length){
   for(int i = 0; i < gcd(length, d); i++){
     int temp = array[i];
@@ -38,8 +36,8 @@ void printArray(int array[], int length){
 }
 
 int main(){
-  int array[] = {1,2,3,4,5,6,7,8};
-  int k = 2;
+  int array[] = {1,2,3,4,5,6,7,8,9,10,11,12};
+  int k = 3;
   int length = sizeof(array) / sizeof(array[0]);
   rotateLeft(array, k, length);
   printArray(array, length);

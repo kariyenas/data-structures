@@ -6,12 +6,12 @@ void reverse(int [], int, int);
 void printArray(int array[], int length);
 
 int main(){
-int array[] = {1,2,3,4,5,6,7,8,9,10,11,12};
-int shift = 4;
-int length = sizeof(array) / sizeof(array[0]);
-leftRotate(array, shift, length);
-printArray(array, length);
-return 0;
+  int array[] = {1,2,3,4,5,6,7,8,9,10,11,12};
+  int shift = 4;
+  int length = sizeof(array) / sizeof(array[0]);
+  leftRotate(array, shift, length);
+  printArray(array, length);
+  return 0;
 }
 
 
